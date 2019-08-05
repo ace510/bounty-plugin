@@ -1,0 +1,32 @@
+main: dev.cibmc.spigot.blankplugin.App
+name: bounty-plugin
+version: 0.1
+author: Ian Clark
+database: true
+
+description: >
+             create, track, and payout Bounties
+             good luck, and good hunting stranger
+
+commands:
+  addbounty:
+    aliases: [bounty]
+    description: adds a bounty to given player, if no amount specified it just shows the bounty for that user
+    usage: |
+           /<command> [player] <amount>
+           Example /<command> Kleiner 500
+
+  checkbounty:
+    aliases: [cbounty]
+    description: checks a players current bounty, if no name specified, displays a dashboard of the top 5 bounties
+    usage: /<command> [player]
+
+  bountyboard:
+    aliases: [bboard]
+    description: displays the top x bounties, defaulting to 5
+    usage: /<command> <amount>
+
+  saltyspitoon:
+    aliases: [sadv]
+    description: easy access to all functions, use at your own risk
+    usage: /<command> [name] <ammount>

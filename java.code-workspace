@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+			
+		}
+	],
+	"settings": {
+		"editor.wordWrap": "bounded",
+		"files.autoGuessEncoding": true,
+		"java.home": "C:\\Program Files\\Java\\jdk-12.0.2",
+		"java.jdt.ls.vmargs": "-Dfile.encoding=UTF-8 -XX:+UseG1GC -XX:+UseStringDeduplication",
+		"javc-linter.javac" : "-Dfile.encoding=UTF-8",
+		"files.exclude": {
+			"**/.classpath": true,
+			"**/.project": true,
+			"**/.settings": true,
+			"**/.factorypath": true
+		},
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"maven.view": "flat"
+	}
+}
