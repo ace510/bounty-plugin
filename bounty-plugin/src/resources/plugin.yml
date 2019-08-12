@@ -20,11 +20,14 @@ commands:
     aliases: [cbounty]
     description: checks a players current bounty, if no name specified, displays a dashboard of the top 5 bounties
     usage: /<command> [player]
+           Example /<command> Kleiner
+
 
   bountyboard:
     aliases: [bboard]
     description: displays the top x bounties, defaulting to 5
     usage: /<command> <amount>
+           Example /<command> 5
 
   saltyspitoon:
     aliases: [sadv]

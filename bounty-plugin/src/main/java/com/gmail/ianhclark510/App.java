@@ -1,8 +1,10 @@
 package com.gmail.ianhclark510;
+
+import com.gmail.ianhclark510.commands;
 import org.bukkit.plugin.java.JavaPlugin;
-// import com.avaje.ebean.validation.Length;
-// import com.avaje.ebean.validation.NotEmpty;
-// import co;
+
+
+
 
 public class App extends JavaPlugin {
     @Override

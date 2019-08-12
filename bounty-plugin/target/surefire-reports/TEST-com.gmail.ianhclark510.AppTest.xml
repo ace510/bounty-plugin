@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.gmail.ianhclark510.AppTest" time="0.09" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="12"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="c:\Users\IaClark\java\bounty-plugin\target\test-classes;c:\Users\IaClark\java\bounty-plugin\target\classes;C:\Users\IaClark\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\IaClark\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\IaClark\.m2\repository\org\spigotmc\spigot-api\1.12.2-R0.1-SNAPSHOT\spigot-api-1.12.2-R0.1-SNAPSHOT.jar;C:\Users\IaClark\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\IaClark\.m2\repository\com\googlecode\json-simple\json-simple\1.1.1\json-simple-1.1.1.jar;C:\Users\IaClark\.m2\repository\com\google\guava\guava\21.0\guava-21.0.jar;C:\Users\IaClark\.m2\repository\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\IaClark\.m2\repository\org\yaml\snakeyaml\1.19\snakeyaml-1.19.jar;C:\Users\IaClark\.m2\repository\net\md-5\bungeecord-chat\1.12-SNAPSHOT\bungeecord-chat-1.12-SNAPSHOT.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="America/Los_Angeles"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="12"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-12.0.2\bin"/>
+    <property name="sun.java.command" value="C:\Users\IaClark\AppData\Local\Temp\surefire7457346539751899271\surefirebooter14288123803548361468.jar C:\Users\IaClark\AppData\Local\Temp\surefire7457346539751899271 2019-08-09T11-28-13_627-jvmRun1 surefire6696226894680465454tmp surefire_0561976547470527859tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="c:\Users\IaClark\java\bounty-plugin\target\test-classes;c:\Users\IaClark\java\bounty-plugin\target\classes;C:\Users\IaClark\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\IaClark\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\IaClark\.m2\repository\org\spigotmc\spigot-api\1.12.2-R0.1-SNAPSHOT\spigot-api-1.12.2-R0.1-SNAPSHOT.jar;C:\Users\IaClark\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\IaClark\.m2\repository\com\googlecode\json-simple\json-simple\1.1.1\json-simple-1.1.1.jar;C:\Users\IaClark\.m2\repository\com\google\guava\guava\21.0\guava-21.0.jar;C:\Users\IaClark\.m2\repository\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\IaClark\.m2\repository\org\yaml\snakeyaml\1.19\snakeyaml-1.19.jar;C:\Users\IaClark\.m2\repository\net\md-5\bungeecord-chat\1.12-SNAPSHOT\bungeecord-chat-1.12-SNAPSHOT.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\IaClark"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2019-07-16"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-12.0.2"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="c:\Users\IaClark\java\bounty-plugin"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\IaClark\AppData\Local\Temp\surefire7457346539751899271\surefirebooter14288123803548361468.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="12.0.2+10"/>
+    <property name="user.name" value="IaClark"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\IaClark\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\IaClark\AppData\Local\Temp\"/>
+    <property name="java.version" value="12.0.2"/>
+    <property name="user.dir" value="c:\Users\IaClark\java\bounty-plugin"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-12.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Python27\;C:\Python27\Scripts;C:\Python35\Scripts\;C:\Python35\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Actian\PSQL\bin\;C:\Program Files\Actian\PSQL\bin\;C:\Program Files\Microsoft MPI\Bin\;C:\Program Files (x86)\Timberline Office\Shared\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\Verint\Logger\;C:\Program Files (x86)\Verint\Playback\;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\ProgramData\chocolatey\bin;C:\Go\bin;C:\Program Files\Git\cmd;C:\ProgramData\chocolatey\lib\maven\apache-maven-3.6.1\bin;C:\Users\IaClark\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\IaClark\AppData\Local\Programs\Python\Python38\;C:\Users\IaClark\AppData\Local\Microsoft\WindowsApps;C:\Users\IaClark\AppData\Local\Programs\Microsoft VS Code Insiders\bin;C:\Users\IaClark\go\bin;C:\Python35;C:\Python27;C:\Users\IaClark\OneDrive - Sage Software, Inc\chromedriver_win32;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="12.0.2+10"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="56.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.gmail.ianhclark510.AppTest" time="0.005"/>
+</testsuite>
